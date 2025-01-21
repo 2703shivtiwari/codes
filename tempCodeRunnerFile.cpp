@@ -27,7 +27,7 @@ int main()
     cout<<"Area of rectangle : "<< ar.Area(4,8)<<endl;
     cout<<"Area of circle : "<<ar.Area(5)<<endl;
     cout<<"Area of Triangle : "<<ar.Area(8.0f,10.1f);
-
+    cout<< 'hello';
     return 0;
 
 }
